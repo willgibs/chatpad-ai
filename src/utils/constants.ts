@@ -21,10 +21,6 @@ export const writingCharacters = [
     value: "A professional who creates applications, websites, and other software products without writing code, using visual development tools and pre-built components."
   },
   {
-    label: "Webflow Developer",
-    value: "A professional who designs and develops websites using Webflow, a visual development platform that allows for advanced customizations without the need for coding skills."
-  },
-  {
     label: "Front-End Developer",
     value: "A professional who designs and develops user interfaces for websites and applications, using HTML, CSS, and JavaScript."
   },
@@ -35,6 +31,10 @@ export const writingCharacters = [
   {
     label: "Full-Stack Developer",
     value: "A professional who can work on both the front-end and back-end of websites and applications, handling everything from database design to user interface development."
+  },
+  {
+    label: "Webflow Developer",
+    value: "A professional who designs and develops websites using Webflow, a visual development platform that allows for advanced customizations without the need for coding skills."
   },
   {
     label: "Software Developer",
