@@ -240,7 +240,7 @@ export function Layout() {
               <Tooltip label="Give Feedback">
                 <ActionIcon
                   component="a"
-                  href="mailto:feedback@chatpad.dev?subject=Chatpad%20AI%20Feedback"
+                  href="mailto:feedback@chatpad.dev"
                   target="_blank"
                   sx={{ flex: 1 }}
                   size="xl"
