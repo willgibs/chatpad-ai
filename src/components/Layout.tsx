@@ -218,7 +218,7 @@ export function Layout() {
               <Tooltip label="Source Code">
                 <ActionIcon
                   component="a"
-                  href="https://github.com/willgibs/chatpad"
+                  href="https://github.com/willgibs/chatpad-ai"
                   target="_blank"
                   sx={{ flex: 1 }}
                   size="xl"
@@ -240,7 +240,7 @@ export function Layout() {
               <Tooltip label="Give Feedback">
                 <ActionIcon
                   component="a"
-                  href="mailto:hello@willgib.com?subject=Chatpad%20Feedback"
+                  href="mailto:feedback@chatpad.dev?subject=Chatpad%20AI%20Feedback"
                   target="_blank"
                   sx={{ flex: 1 }}
                   size="xl"
