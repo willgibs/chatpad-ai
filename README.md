@@ -2,10 +2,9 @@
 
 <h1>Chatpad AI</h1>
 <h2>ChatGPT UI with Prompt Injections</h2>
-<!-- <p align="center"><a href="https://chatpad.ai">Web App</a> & <a href="https://download.chatpad.ai">Desktop App</a></p> -->
-<p><a href="https://chatpad.ai">Web App</a> & <a href="https://dl.todesktop.com/230313oyppkw40a">Desktop App</a></p>
+<p><a href="https://chatpad.ai"> Visit Web App</a>
 
-Expanding upon [deiucanta](https://github.com/deiucanta)'s open-source [Chatpad AI](https://github.com/deiucanta/chatpad) interface, this modified version is tailored for technology-specific prompt injections, making it an ideal tool for designers, developers, marketers, and so much more.
+Expanding upon [deiucanta](https://github.com/deiucanta)'s open-source interface, this modified version is tailored for technology-specific prompt injections, making it an ideal tool for designers, developers, marketers, and so much more.
 
 ### ⚡️ Free and open source
 
@@ -24,13 +23,13 @@ Crafted with love and care to provide the best experience possible.
 ## One click Deployments
 
 <!-- Netlify -->
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/willgibs/chatpad)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/willgibs/chatpad-ai)
 
 <!-- Vercel -->
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/willgibs/chatpad)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/willgibs/chatpad-ai)
 
 <!-- Railway -->
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=<https://github.com/willgibs/chatpad>)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=<https://github.com/willgibs/chatpad-ai>)
 
 
 
