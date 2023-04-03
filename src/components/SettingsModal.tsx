@@ -122,7 +122,7 @@ export function SettingsModal({ children }: { children: ReactElement }) {
             data={availableModels}
           />
           <Alert color="orange" title="Warning">
-            The displayed cost was not updated yet to reflect the costs for each
+            The displayed cost has not yet been updated to reflect the costs for each
             model. Right now it will always show the cost for GPT-3.5.
           </Alert>
         </Stack>
