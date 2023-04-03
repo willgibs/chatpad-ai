@@ -4,7 +4,7 @@
 <h2>ChatGPT UI with Prompt Injections</h2>
 <p><a href="https://chatpad.ai"> Visit Web App</a>
 
-Expanding upon [deiucanta](https://github.com/deiucanta)'s open-source interface, this modified version is tailored for technology-specific prompt injections, making it an ideal tool for designers, developers, marketers, and so much more.
+Expanding on [deiucanta](https://github.com/deiucanta)'s open-source interface, this modified version is tailored for technology-specific prompt injections, making it an ideal tool for designers, developers, data scientists and more.
 
 ### ⚡️ Free and open source
 
@@ -20,7 +20,7 @@ Crafted with love and care to provide the best experience possible.
 
 ---
 
-## One click Deployments
+## 1-Click Deployments
 
 <!-- Netlify -->
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/willgibs/chatpad-ai)
@@ -45,6 +45,5 @@ This is a React.js application. Clone the project, run `npm i` and `npm start` a
 ## Credits
 
 - [Andrei Canta](https://github.com/deiucanta) - The original creator of this awesome project
-- [ToDesktop](https://todesktop.com) - A simple way to make your web app into a beautiful desktop app
 - [DexieJS](https://dexie.org) - A Minimalistic Wrapper for IndexedDB
 - [Mantine](https://mantine.dev) - A fully featured React component library
