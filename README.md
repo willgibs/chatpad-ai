@@ -36,7 +36,7 @@ Crafted with love and care to provide the best experience possible.
 
 ## Give Feedback
 
-If you have any feature requests or bug reports, go to [feedback.chatpad.ai](https://feedback.chatpad.ai).
+If you have any feedback, feature requests or bug reports, message [feedback@chatpad.dev](mailto:feedback@chatpad.dev).
 
 ## Contribute
 
