@@ -2,7 +2,7 @@
 
 <h1>Chatpad AI</h1>
 <h2>ChatGPT UI with Prompt Injections</h2>
-<p><a href="https://chatpad.ai"> Visit Web App</a>
+<p><a href="https://chatpad.dev"> Visit Web App</a>
 
 Expanding on [deiucanta](https://github.com/deiucanta)'s open-source interface, this modified version is tailored for technology-specific prompt injections, making it an ideal tool for designers, developers, data scientists and more.
 
