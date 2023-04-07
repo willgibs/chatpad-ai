@@ -42,7 +42,7 @@ export function Chats({ search }: { search: string }) {
           <Link to={`/chats/${chat.id}`} style={{ flex: 1 }}>
             <MainLink
               icon={<IconMessages size="1rem" />}
-              color="indigo"
+              color="violet"
               chat={chat}
               label={chat.description}
             />
