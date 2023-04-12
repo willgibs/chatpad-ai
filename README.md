@@ -1,6 +1,9 @@
 ![Chatpad AI](./banner.png)
 
 <h1>Chatpad AI</h1>
+
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/willgibs.svg?style=social&label=Follow%20%40willgibs)](https://twitter.com/willgibs)
+
 <h2>ChatGPT UI with Prompt Injections</h2>
 <p><a href="https://chatpad.dev"> Visit Web App</a>
 
