@@ -25,9 +25,6 @@ Crafted with love and care to provide the best experience possible.
 
 ## 1-Click Deployments
 
-<!-- Netlify -->
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/willgibs/chatpad-ai)
-
 <!-- Vercel -->
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/willgibs/chatpad-ai)
 
