@@ -2,9 +2,15 @@
 
 <h1>Chatpad AI</h1>
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/willgibs.svg?style=social&label=Follow%20%40willgibs)](https://twitter.com/willgibs)
+<p align="left">
+  <a href="https://twitter.com/willgibs">
+    <img src="https://img.shields.io/twitter/url/https/twitter.com/willgibs.svg?style=social&label=Follow%20%40willgibs" alt="Twitter">
+  </a>
+  <a href="https://github.com/MShawon/github-clone-count-badge">
+    <img src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/MShawon/cf89f3274d06170b8a4973039aa6220a/raw/clone.json&logo=github" alt="GitHub Clones">
+  </a>
+</p>
 
-[![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/MShawon/cf89f3274d06170b8a4973039aa6220a/raw/clone.json&logo=github)](https://github.com/MShawon/github-clone-count-badge)
 
 <h2>ChatGPT UI with Prompt Injections</h2>
 <p><a href="https://chatpad.dev"> Visit Web App</a>
