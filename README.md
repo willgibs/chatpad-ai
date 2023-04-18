@@ -4,6 +4,9 @@
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/willgibs.svg?style=social&label=Follow%20%40willgibs)](https://twitter.com/willgibs)
 
+![Total GitHub Releases](https://img.shields.io/github/downloads/willgibs/chatpad-ai/total.svg)
+
+
 <h2>ChatGPT UI with Prompt Injections</h2>
 <p><a href="https://chatpad.dev"> Visit Web App</a>
 
