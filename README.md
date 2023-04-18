@@ -4,8 +4,7 @@
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/willgibs.svg?style=social&label=Follow%20%40willgibs)](https://twitter.com/willgibs)
 
-![Total GitHub Releases](https://img.shields.io/github/downloads/willgibs/chatpad-ai/total.svg)
-
+[![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/MShawon/cf89f3274d06170b8a4973039aa6220a/raw/clone.json&logo=github)](https://github.com/MShawon/github-clone-count-badge)
 
 <h2>ChatGPT UI with Prompt Injections</h2>
 <p><a href="https://chatpad.dev"> Visit Web App</a>
