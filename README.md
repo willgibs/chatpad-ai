@@ -11,11 +11,10 @@
   </a>
 </p>
 
-
 <h2>ChatGPT UI with Prompt Injections</h2>
 <p><a href="https://chatpad.dev"> Visit Web App</a>
 
-Expanding on [deiucanta](https://github.com/deiucanta)'s open-source interface, this modified version is tailored for technology-specific prompt injections, making it an ideal tool for designers, developers, data scientists and more.
+This modified version of Chatpaid AI is tailored for technology-specific prompt injections, making it an ideal tool for designers, developers, data scientists and more.
 
 ### ⚡️ Free and open source
 
@@ -29,29 +28,28 @@ No tracking, no cookies, no bullshit. All your data is stored locally.
 
 Crafted with love and care to provide the best experience possible.
 
----
+## Deploy on Vercel
 
-## 1-Click Deployments
+To deploy the Chatpad AI app on Vercel, follow these steps:
 
-<!-- Vercel -->
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/willgibs/chatpad-ai)
+1. Fork or clone the repository from GitHub.
+2. Sign up or log in to your Vercel account.
+3. In the Vercel dashboard, click on "Import Project."
+4. Select "Import Git Repository" and provide the URL of your forked or cloned repository.
+5. Configure the project settings:
+   - Set the "Build Command" to `npm run build`
+   - Set the "Output Directory" to `dist`
+   - Set the "Framework Preset" to Parcel.
+6. Click "Deploy" to start the deployment process.
 
-<!-- Railway -->
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=<https://github.com/willgibs/chatpad-ai>)
-
-
-
+Once the deployment is complete, you'll receive a link to the live site.
 
 ## Give Feedback
 
 If you have any feedback, feature requests or bug reports, message [feedback@chatpad.dev](mailto:feedback@chatpad.dev).
 
-## Contribute
-
-This is a React.js application. Clone the project, run `npm i` and `npm start` and you're good to go.
-
 ## Credits
 
-- [Andrei Canta](https://github.com/deiucanta) - The original creator of this awesome project
-- [DexieJS](https://dexie.org) - A Minimalistic Wrapper for IndexedDB
+- [Andrei Canta](https://github.com/deiucanta) - The original creator of the Chatpad interface
+- [DexieJS](https://dexie.org) - A minimalistic wrapper for IndexedDB
 - [Mantine](https://mantine.dev) - A fully featured React component library
